@@ -1,0 +1,59 @@
+# 📊 Dashboard de Vendas no Excel
+
+Este projeto consiste em um dashboard interativo de vendas desenvolvido no Microsoft Excel. Ele permite a análise de indicadores de desempenho e a visualização de dados por múltiplas dimensões (tempo, produto, região, vendedor).
+
+## 🔍 Objetivos
+
+- Analisar e acompanhar o desempenho de vendas de forma visual e dinâmica.
+- Facilitar a tomada de decisões estratégicas com base em dados reais.
+- Utilizar apenas recursos nativos do Excel: tabelas dinâmicas, gráficos e segmentações.
+
+## 📁 Estrutura do Projeto
+
+- `dashboard-vendas.xlsx`: arquivo com os dados brutos, tabelas dinâmicas e o dashboard final.
+- `/imagens/preview_dashboard.png`: imagem ilustrativa do dashboard (opcional).
+- `README.md`: este documento com instruções e informações do projeto.
+
+## 🧾 Dados Utilizados
+
+Os dados simulam vendas mensais de uma empresa com as seguintes colunas:
+
+- `Data`
+- `Produto`
+- `Categoria`
+- `Região`
+- `Vendedor`
+- `Quantidade`
+- `Preço Unitário`
+- `Custo Unitário`
+- `Receita`, `Lucro`, `Margem` (calculados)
+
+## 📈 Indicadores Apresentados
+
+- Receita Total
+- Quantidade de Vendas
+- Ticket Médio
+- Margem de Lucro (%)
+- Gráficos: Tendência mensal, Participação por produto, Ranking de regiões
+
+## ▶️ Como Usar
+
+1. Baixe o arquivo `dashboard-vendas.xlsx`.
+2. Abra no Microsoft Excel (versão 2016 ou superior recomendada).
+3. Use os filtros (segmentações) para interagir com os dados.
+4. Atualize os dados na aba "Base de Dados" para ver novas análises.
+
+## 🛠️ Requisitos
+
+- Microsoft Excel 2016 ou superior
+- Conhecimentos básicos em Tabelas Dinâmicas e Gráficos
+
+## 📸 Exemplo do Dashboard
+
+![Preview do Dashboard](imagens/preview_dashboard.png)
+
+---
+
+## 📬 Contato
+
+Em caso de dúvidas ou sugestões, entre em contato via [GitHub Issues](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/issues).
